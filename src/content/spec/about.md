@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hi, I’m a programmer who uses this space to document what I’m learning, building, or tinkering with.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+You’ll mostly find notes-to-self, project logs, and tutorials on tools and workflows I find useful. I write about things I’m likely to forget — and might need to do again in the future — in the hope that it’s helpful to others, too.
+
+The topics here are wide-ranging but usually orbit around programming, system setup, and practical problem-solving. A lot of this stems from my main interest in daily driving Linux, so you’ll see a fair share of Linux tutorials and troubleshooting. 
+
+I’m currently open to work as an independent contractor. If you have a project in mind or need someone with my skills, feel free to reach out. You can contact me at gaumala at protonmail, and find my professional background and experience on my CV: [https://gaumala.github.io/markdown-cv/](https://gaumala.github.io/markdown-cv/).
+
