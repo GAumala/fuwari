@@ -15,9 +15,9 @@ adding [Transmission](https://transmissionbt.com/) for torrent downloads. Along 
 workarounds I discovered for common issues and the media management approach that
 works best for keeping everything organized.
 
-::github{repo="jellyfin/jellyfin"}
-
 ## Why Jellyfin
+
+::github{repo="jellyfin/jellyfin"}
 
 Aren't you fed up with streaming services? I know I am. [Streaming fatigue](
 https://www.economicsonline.co.uk/all/streaming-fatigue-and-the-fragmentation-of-digital-entertainment.html/
